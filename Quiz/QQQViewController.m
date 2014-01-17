@@ -26,4 +26,7 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)showQuestion:(id)sender {
+    NSLog(@"Inside the show Question1");
+}
 @end

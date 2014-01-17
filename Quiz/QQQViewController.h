@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface QQQViewController : UIViewController
+- (IBAction)showQuestion:(id)sender;
 
 @end
